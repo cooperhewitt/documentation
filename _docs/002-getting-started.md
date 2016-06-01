@@ -17,6 +17,6 @@ To test it out (assuming you have Jekyll installed) just cd into your project's 
 
     > jekyll serve
 	
-This will launch a Jekyll server at http://127.0.0.1:4000/documentation. If you go to that URL, you should now see your empty copy of your Jekyll based documentation static site. Yay!
+This will launch a Jekyll server at [http://127.0.0.1:4000/documentation/](http://127.0.0.1:4000/documentation/). If you go to that URL, you should now see your empty copy of your Jekyll based documentation static site. Yay!
 
 
