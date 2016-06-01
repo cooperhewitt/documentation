@@ -4,3 +4,8 @@ baseurl: "/documentation"
 
 # Build settings
 markdown: kramdown
+
+# collections
+collections:
+  docs:
+        output: true
