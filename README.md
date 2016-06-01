@@ -1,7 +1,7 @@
 # documentation
 documentation for cooper hewitt's documentation
 
-This repository will aim to help Cooper Hewitt do a better job of documenting all of the code it authros, builds and deploys.
+This repository will aim to help Cooper Hewitt do a better job of documenting all of the code it authors, builds and deploys.
 
 This is the public version. Here are a few basic guidelines.
 
