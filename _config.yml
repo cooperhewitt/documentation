@@ -1,0 +1,6 @@
+title: documentation
+
+baseurl: "/documentation"
+
+# Build settings
+markdown: kramdown
