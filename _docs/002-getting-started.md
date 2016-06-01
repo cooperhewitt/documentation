@@ -5,7 +5,7 @@ layout: default
 
 # Getting started
 
-To begin documenting your project, start by clonging this project alongside your existing project. Then cd into the documentation repository and use the Makefile to setup your project with a documentation folder.
+To begin documenting your project, start by cloning this project alongside your existing project. Then cd into the documentation repository and use the Makefile to setup your project with a documentation folder.
 
     > git clone git@github.com:cooperhewitt/documentation.git
 	> cd documentation
