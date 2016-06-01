@@ -3,6 +3,26 @@ title: "Getting started"
 layout: default
 ---
 
+# Prerequisites
+
+In order to author, build and deploy Jekyll based documentation for your project, you will need to install [Jekyll](https://jekyllrb.com/).
+
+On a Mac it's typically:
+
+    > sudo gem install jekyll
+	
+For more information on Jekyll installation on various operating systems, etc. please see the [Jekyll website](https://jekyllrb.com/).
+
+# Basics
+
+The general concept is:
+
+* Create a `docs`folder on the master branch of you project
+* Use Jekyll within the `docs` folder to author documentation in the `_docs` folder.
+* Test using Jekyll Serve
+* Push to Master
+* Push to GitHub pages using the git subtree command.
+
 # Getting started
 
 To begin documenting your project, start by cloning this project alongside your existing project. Then cd into the documentation repository and use the Makefile to setup your project with a documentation folder.
